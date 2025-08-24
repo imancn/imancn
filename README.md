@@ -9,6 +9,7 @@
 ### 🚀 About Me
 
 I’m a software engineer passionate about building scalable systems and data-driven products.
+
 My GitHub activity reflects my focus on:
 
 * **Backend Engineering** – designing and optimizing APIs and microservices.
