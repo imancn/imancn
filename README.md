@@ -6,6 +6,12 @@
 
 ---
 
+### 🎯 Live Demos
+
+Check out my live demos and projects: **[https://imancn.github.io/imancn/](https://imancn.github.io/imancn/)**
+
+---
+
 ### 🚀 About Me
 
 I’m a software engineer passionate about building scalable systems and data-driven products.
